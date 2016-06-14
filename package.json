@@ -1,10 +1,10 @@
 {
-  "name": "ardrone-autonomy",
+  "name": "ardrone-autonomy-withsim",
   "version": "0.1.2",
-  "description": "Building blocks for autonomous flying an AR.Drone.",
+  "description": "Building blocks for autonomous flying an AR.Drone with simulation and fixes for strict time based movement.",
   "repository": {
     "type": "git",
-    "url": "git@github.com:eschnou/ardrone-autonomy.git"
+    "url": "git@github.com:EduMake/ardrone-autonomy-withsim"
   },
   "keywords": [
     "drone",
@@ -27,6 +27,6 @@
     "urun": "0.0.6",
     "sinon": "1.4.2"
   },
-  "author": "Laurent Eschenauer <laurent@eschenauer.be>",
+  "author": "Laurent Eschenauer <laurent@eschenauer.be>, Martyn Eggleton <martyn@edumake.org>",
   "license": "MIT"
 }
